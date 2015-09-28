@@ -5,6 +5,8 @@
   'author':'Jesus Reyes <jesusreyes.personal@gmail.com>',
 
   'data': [
+  'views/layout.xml',
+  'views/pages.xml' 
   ],
   'category': 'Theme/Personal',
   'depends': ['website', 'website_less'],
